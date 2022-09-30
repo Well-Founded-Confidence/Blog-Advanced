@@ -17,5 +17,5 @@
 - [ERD](https://dbdiagram.io/d/62a602609921fe2a96ea37e4)
 ## Repository
 - [강승현 Repository](https://github.com/CODe5753/Blog-Advanced)
-- [박혜연 Repository](https://github.com/hyntato/Blog-Advanced)
+- [박혜연 Repository](https://github.com/hyntato/BlogAdvanced)
 - [전선규 Repository](https://github.com/sungyujeon/blog-advanced.git)
